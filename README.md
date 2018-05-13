@@ -1,7 +1,7 @@
 # OCR-using-Tesseract-
 ## OCR using pytesseract 
 * Tesseract [Home](https://github.com/UB-Mannheim/tesseract/wiki)
-* You can download th exe library from [Here](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-3.05.01.exe)
+* You can download the .exe library from [Here](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-3.05.01.exe)
 * Python [Tesseract](https://github.com/madmaze/pytesseract) (pytesseract)
 * To get pytesseract :
   ```python
