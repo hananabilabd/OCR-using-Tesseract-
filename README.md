@@ -13,7 +13,7 @@
  #Include the above line, if you don't have tesseract executable in your PATH
  #Example tesseract_cmd: 'C:\\Program Files (x86)\\Tesseract-OCR\\tesseract'
  ```
- # Input Images : 
+ ## Input Images : 
  * 3 English Images 
  
 English1 (Clear)           |  English2 (Noisy)         |  English3 (Desne writing)            
@@ -30,3 +30,8 @@ Arabic1                    |  Arabic2                  |  Arabic3
 French1                    |  French2                  | French3            
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](images/french.jpg )    |  ![](images/french2.jpg ) |![](images/french3.jpg )
+
+ ## Usage : 
+ ```python
+ $ python ocr.py 
+ ```
